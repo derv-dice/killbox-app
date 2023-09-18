@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">killbox-app</string>
+
+    <string name="fake_start_message">ЛОЖНАЯ ТОЧКА</string>
+
+    <string name="option_text_conquest_time">Время захвата</string>
+    <string name="option_text_taking_time">Время удержания</string>
+    <string name="option_text_start_delay">Задержка старта</string>
+
+    <string name="button_text_start">Старт</string>
+    <string name="button_text_fake_start">Ложный старт</string>
+
+    <string name="text_winner_message">ПОБЕДИЛИ</string>
+
+    <string name="text_seconds">секунд</string>
+</resources>
